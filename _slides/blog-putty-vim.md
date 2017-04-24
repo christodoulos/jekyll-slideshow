@@ -2,7 +2,7 @@
 layout: iframe
 title: PuTTY settings for vim
 item: 1
-auto: true
+auto: false
 loop: false
 ---
 
