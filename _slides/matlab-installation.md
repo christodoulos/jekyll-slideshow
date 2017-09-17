@@ -1,6 +1,6 @@
 ---
 layout: iframe
-title: Matlab Installation
+title: "Matlab Installation"
 item: 1
 auto: false
 loop: false
